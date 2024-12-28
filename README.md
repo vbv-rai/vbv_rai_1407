@@ -1,2 +1,1 @@
-## My LeetCode Profile
-[Check out my LeetCode profile here!](https://leetcode.com/vbvrai1407/)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/vbvrai1407?theme=dark)
